@@ -1,0 +1,8 @@
+#level
+0
+#radius posX posY waiting direction rebounds stopped
+35	70	70	15	LEFT	0	false
+30	70	190	20	RIGHT	0	false
+25	70	300	30	UP	0	false
+40	70	390	25	DOWN	0	false
+33	70	450	40	DOWN	0	false

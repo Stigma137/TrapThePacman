@@ -1,0 +1,17 @@
+#level
+2
+#radius posx posy waiting dir rebounds stopped
+25	70	70	15	LEFT	0	false
+20	100	190	10	DOWN	0	false
+15	70	300	23	UP	0	false
+40	70	390	20	DOWN	0	false
+22	70	450	22	DOWN	0	false
+17	800	500	10	UP	0	false
+15	750	400	5	RIGHT	0	false
+25	70	70	15	LEFT	0	false
+20	100	190	10	DOWN	0	false
+15	70	300	23	UP	0	false
+40	70	390	20	DOWN	0	false
+22	70	450	22	DOWN	0	false
+17	800	500	10	UP	0	false
+15	750	400	5	RIGHT	0	false
